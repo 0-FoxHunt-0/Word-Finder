@@ -31,9 +31,8 @@ Word Finder/
 ├── tests/                  # Test scripts and utilities
 │   ├── __init__.py
 │   ├── test_sqlite_integration.py  # Integration tests
-│   └── demo_partial_exit.py        # Demo scripts
+│   └── demo_partial_exit.py        # Demo script
 ├── main.py                 # Main application entry point
-├── test_range_parsing.py   # Range parsing tests
 ├── .gitignore              # Git ignore patterns
 └── README.md               # This file
 ```
